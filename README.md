@@ -32,11 +32,15 @@ Next.js · React · TypeScript · Tailwind CSS · Supabase (PostgreSQL, Auth) ·
 
 ## Screenshots
 
-| Booking | Workouts | Profile |
-|---|---|---|
-| ![](screenshots/booking.png) | ![](screenshots/workouts.png) | ![](screenshots/profile.png) |
+### Client booking
+![Client booking](screenshots/booking.png)
+
+### Workouts
+![Workouts](screenshots/workouts.png)
+
+### Client profile
+![Client profile](screenshots/profile.png)
 
 ## Source Code
 
-The source code is private, since this is a live product. I'm happy to walk
-through it on request.
+The source code is private, since this is a live product.
