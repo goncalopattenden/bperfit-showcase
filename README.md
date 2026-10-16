@@ -4,6 +4,8 @@ A web app for managing a personal training studio: scheduling, bookings,
 workouts and client progress. Live at **[bperfit.pt](https://bperfit.pt)**
 and used daily by the studio and its **30+ clients**.
 
+![Front page](screenshots/front_page.png)
+
 ![Weekly schedule](screenshots/schedule.png)
 
 ## About
