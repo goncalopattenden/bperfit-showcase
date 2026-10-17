@@ -1,8 +1,8 @@
-# BPERFIT
+# BPERFIT Platform
 
-A web app for managing a personal training studio: scheduling, bookings,
-workouts and client progress. Live at **[bperfit.pt](https://bperfit.pt)**
-and used daily by the studio and its **30+ clients**.
+The booking and training platform I built for **BPERFIT**, a personal training
+studio in Portugal. Live at **[bperfit.pt](https://bperfit.pt)** and used daily
+by the studio and its **30+ clients**.
 
 ![Front page](screenshots/front_page.png)
 
@@ -10,13 +10,9 @@ and used daily by the studio and its **30+ clients**.
 
 ## About
 
-BPERFIT was built for a personal trainer running sessions across two
-locations. It replaces spreadsheets and messages with a single app where
-clients book their sessions and follow their training plans, and the trainer
-manages the schedule, clients and workouts.
+The platform was built for BPERFIT, a personal training studio running sessions across two locations. It replaces spreadsheets and messages with a single app where clients book their sessions and follow their training plans, and the trainer manages the schedule, clients and workouts.
 
-I designed and developed the entire app, from UI design to database and
-deployment.
+I designed and developed the entire app, from UI design to database and deployment.
 
 ## Features
 
